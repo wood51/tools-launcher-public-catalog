@@ -32,4 +32,6 @@ Le Tableau 1.5.0 ajoute l'édition Catalogue et son lancement Python autonome, l
 
 Le Tableau 1.5.1 rend les cartes légèrement transparentes pendant leur déplacement (85 % d'opacité), avec un halo couleur d'accent qui devient rouge au-dessus de la corbeille. La poubelle reste fermée et reçoit également un halo rouge lorsque la suppression est prête.
 
+Le paquet 1.5.1 a été remplacé le même jour pour rendre les listes déroulantes plus visibles (flèche et zone dédiée) et encadrer la zone « Une précision ? ». Si la première 1.5.1 est déjà installée, réinstaller cette version depuis le Catalogue ; le numéro n'a pas changé.
+
 Ce dépôt contient uniquement `index.json`, les ZIP signés et cette documentation. Il ne contient aucune donnée utilisateur ni clé privée. Les signatures correspondent à la clé publique wood51 distribuée avec Tools Launcher.

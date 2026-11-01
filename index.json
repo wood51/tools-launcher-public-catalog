@@ -56,9 +56,9 @@
       "version": "1.5.1",
       "author": "",
       "tooltip": "Un tableau de tâches partagé pour le bureau",
-      "notes": "Déplacement : carte à 85 % d’opacité, halo accent puis rouge sur la corbeille fermée.",
+      "notes": "Correctif 1.5.1 : listes déroulantes plus visibles et zone de précision encadrée ; halos de déplacement conservés.",
       "zip": "zips/le_tableau-1.5.1.zip",
-      "sha256": "685821d2c14bb5d28d0449d4ccd5b6fa65837532950780728024b217d1d68093"
+      "sha256": "60440ed91dd7035787d09ff1ba2248e1c30a4c9cdb8e5d58369a7334d2235d78"
     }
   ]
 }
