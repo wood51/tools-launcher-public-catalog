@@ -1,0 +1,54 @@
+{
+  "extensions": [
+    {
+      "id": "files",
+      "name": "Fichier",
+      "version": "1.0.1",
+      "author": "wood51",
+      "tooltip": "Ouvre les fichiers configurés avec l'application choisie",
+      "notes": "Première publication dans le catalogue public.",
+      "zip": "zips/files-1.0.1.zip",
+      "sha256": "b1dc11716f4857ade20fb21f0e8523cba317a6162369b13a68ffec895c87a544"
+    },
+    {
+      "id": "le_tableau",
+      "name": "Le Tableau",
+      "version": "1.5.0",
+      "author": "",
+      "tooltip": "Un tableau de tâches partagé pour le bureau",
+      "notes": "Première publication dans le catalogue public.",
+      "zip": "zips/le_tableau-1.5.0.zip",
+      "sha256": "fdd2ef3088c8651fd6182b70809696e662bc086c431a44c88893605eaf24e485"
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "version": "1.0.0",
+      "author": "wood51",
+      "tooltip": "Thème sombre bleu glacé, accent bleu clair",
+      "notes": "Première publication dans le catalogue public.",
+      "zip": "zips/nord-1.0.0.zip",
+      "sha256": "7350438088c16ec81a24a8574a573d8bcc5af1af7fc0af940958ef8590762e0c"
+    },
+    {
+      "id": "ocean",
+      "name": "Océan",
+      "version": "1.0.0",
+      "author": "",
+      "tooltip": "Thème sombre bleu nuit, accent turquoise",
+      "notes": "Première publication dans le catalogue public.",
+      "zip": "zips/ocean-1.0.0.zip",
+      "sha256": "d91948a356614b6d47c4b0c685d8ccbcea71a382e395fe6a98afa4d4fcfe82cf"
+    },
+    {
+      "id": "papier",
+      "name": "Papier",
+      "version": "1.0.0",
+      "author": "wood51",
+      "tooltip": "Thème clair ton papier, accent terre cuite",
+      "notes": "Première publication dans le catalogue public.",
+      "zip": "zips/papier-1.0.0.zip",
+      "sha256": "a1bb6f9ff4510111381a9142c81df137bc505ffa0e7212e6dd21e6b42d3f0375"
+    }
+  ]
+}
