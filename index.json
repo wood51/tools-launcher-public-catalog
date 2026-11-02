@@ -69,6 +69,16 @@
       "notes": "Lancement Windows et droits administrateur corrigés ; sélection, retrait, renommage et glisser-déposer suivant Files.",
       "zip": "zips/programmes-0.2.0.zip",
       "sha256": "9f1dafdfe964a4f5b8e0d97ef3be743f3a20f4ac2e623b613f2a2eade237f74f"
+    },
+    {
+      "id": "publisher",
+      "name": "Publication",
+      "version": "1.1.0",
+      "author": "David Poulin",
+      "tooltip": "Signer et publier des extensions (clés de signature, catalogue)",
+      "notes": "Deux onglets Publication et Clés ; commit et push avec Dulwich, jetons privés chiffrés par dépôt et reprise après échec.",
+      "zip": "zips/publisher-1.1.0.zip",
+      "sha256": "83b7a0bbc7b8e47467759c1bfcb2f28fce77eccb6ba60a6bac1b786e060892ae"
     }
   ]
 }
