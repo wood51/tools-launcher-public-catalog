@@ -59,6 +59,16 @@
       "notes": "Correctif 1.5.1 : listes déroulantes plus visibles et zone de précision encadrée ; halos de déplacement conservés.",
       "zip": "zips/le_tableau-1.5.1.zip",
       "sha256": "60440ed91dd7035787d09ff1ba2248e1c30a4c9cdb8e5d58369a7334d2235d78"
+    },
+    {
+      "id": "programmes",
+      "name": "Programmes",
+      "version": "0.2.0",
+      "author": "",
+      "tooltip": "Vos applications PC, avec leurs icônes et des catégories facultatives",
+      "notes": "Lancement Windows et droits administrateur corrigés ; sélection, retrait, renommage et glisser-déposer suivant Files.",
+      "zip": "zips/programmes-0.2.0.zip",
+      "sha256": "9f1dafdfe964a4f5b8e0d97ef3be743f3a20f4ac2e623b613f2a2eade237f74f"
     }
   ]
 }
